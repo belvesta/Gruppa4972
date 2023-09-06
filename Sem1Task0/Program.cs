@@ -9,9 +9,11 @@ string? inputNum = Console.ReadLine(); // ?? "0";
 if (inputNum! = null)
 {
     //Парсим введённое число
-    int num=int.Parse(inputNum);
+    //int num=int.Parse(inputNum);
     //Находим квадрат числа
-    int res=num*num;
+    //int res=num*num;
     //Выводим данные в консоль
-    Console.WriteLine(res);
+    //Console.WriteLine(res);
+    Console.WriteLine("Квадрат числа: "+(int)Math.Pow(int.Parse(inputNum),2));
+    //выдаёт ошибку
 }

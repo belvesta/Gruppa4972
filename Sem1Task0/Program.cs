@@ -6,7 +6,7 @@ Console.WriteLine("Введите число: ");
 // Считываем данные с консоли.
 string? inputNum = Console.ReadLine(); // ?? "0";
 // Проверяем, чтобы данные были не пустыми.
-if (inputNum! = null)
+if (inputNum!=null)
 {
     //Парсим введённое число
     //int num=int.Parse(inputNum);
@@ -14,6 +14,7 @@ if (inputNum! = null)
     //int res=num*num;
     //Выводим данные в консоль
     //Console.WriteLine(res);
-    Console.WriteLine("Квадрат числа: "+(int)Math.Pow(int.Parse(inputNum),2));
-    //выдаёт ошибку
+        //выдаёт ошибку
+
+Console.WriteLine("Квадрат числа: "+(int)Math.Pow(int.Parse(inputNum),2));
 }

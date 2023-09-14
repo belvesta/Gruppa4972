@@ -1,31 +1,12 @@
-﻿// Программа, в которой на вход принимается трёхзначное число и на выходе показывает вторую цифру этого числа.
-int number = ReadInt("Введите трехзначное число: ");
-int amount = number.ToString().Length;
-
-if (amount < 3 || amount > 3)
-{
-    Console.WriteLine("Вы ввели не трехзначное число");
-}
-else
-{
-    Console.WriteLine(InCenter(number));
-}
-
-
-
-// ФУНКЦИИ------------------------------------------------------------------------------------------------------
-
-// Функция принимает сообщение для отображения в консоли, и выводит результат введенных данных пользователем. 
-int ReadInt(string message)
-{
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
-}
-
-// Функция вывода цифры стоящей в середине трехзначногно числа.
-int InCenter(int a)
-{
-    
-    int result = ((a / 10) % 10);
-    return result;
-}
+﻿// Программа, в которой на вход принимается трёхзначное число и на выходе
+// показывает вторую цифру этого числа.
+//int number = ReadInt("Введите трехзначное число: ");
+Console.WriteLine("Введите трехзначное число. Выход из программы - команда Exit.");
+    while(true)
+    {
+        string input = Console.ReadLine();
+        if(!input.Equals("exit"))
+            Console.WriteLine("{0}->{1}",input, input[1]);
+        else
+            break;
+    }

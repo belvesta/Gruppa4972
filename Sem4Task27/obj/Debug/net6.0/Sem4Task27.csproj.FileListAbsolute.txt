@@ -1,0 +1,15 @@
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.csproj.AssemblyReference.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.AssemblyInfoInputs.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.AssemblyInfo.cs
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\bin\Debug\net6.0\Sem4Task27.exe
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\bin\Debug\net6.0\Sem4Task27.deps.json
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\bin\Debug\net6.0\Sem4Task27.runtimeconfig.json
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\bin\Debug\net6.0\Sem4Task27.dll
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\bin\Debug\net6.0\Sem4Task27.pdb
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.dll
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\refint\Sem4Task27.dll
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.pdb
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\Sem4Task27.genruntimeconfig.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem4Task27\obj\Debug\net6.0\ref\Sem4Task27.dll

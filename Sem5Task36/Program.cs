@@ -28,5 +28,5 @@ void FindOdd(int[] MyArray)
     {
         odd=odd+MyArray[i];
     }
-        WriteLine ($"Сумма чисел на нечётных позициях {odd}");
+        Console.WriteLine($"Сумма чисел на нечётных позициях {odd}");
 }

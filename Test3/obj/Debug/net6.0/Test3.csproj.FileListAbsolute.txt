@@ -1,5 +1,0 @@
-C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Test3\obj\Debug\net6.0\Test3.csproj.AssemblyReference.cache
-C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Test3\obj\Debug\net6.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Test3\obj\Debug\net6.0\Test3.AssemblyInfoInputs.cache
-C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Test3\obj\Debug\net6.0\Test3.AssemblyInfo.cs
-C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Test3\obj\Debug\net6.0\Test3.csproj.CoreCompileInputs.cache

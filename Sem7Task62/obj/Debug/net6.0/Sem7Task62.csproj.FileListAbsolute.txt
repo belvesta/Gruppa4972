@@ -1,0 +1,15 @@
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\bin\Debug\net6.0\Sem7Task62.exe
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\bin\Debug\net6.0\Sem7Task62.deps.json
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\bin\Debug\net6.0\Sem7Task62.runtimeconfig.json
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\bin\Debug\net6.0\Sem7Task62.dll
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\bin\Debug\net6.0\Sem7Task62.pdb
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.csproj.AssemblyReference.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.AssemblyInfoInputs.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.AssemblyInfo.cs
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.dll
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\refint\Sem7Task62.dll
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.pdb
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\Sem7Task62.genruntimeconfig.cache
+C:\Users\Надежда\Documents\GeekBrains\04.09.23.Gruppa4972\Gruppa4972\Sem7Task62\obj\Debug\net6.0\ref\Sem7Task62.dll
